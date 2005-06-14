@@ -1,0 +1,94 @@
+body {
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #6699CC;
+	font-size: small;
+}
+.navigation {
+	font-size: x-small;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #00CCFF;
+	text-align: center;
+	vertical-align: middle;
+	border: none;
+}
+.tableOutputText {
+	background-color: #6699CC;
+}
+.outMaREtitleCell {
+	background-image: url(immagini/vr.JPG);
+	background-repeat: repeat;
+	background-position: right center;
+}
+input {
+	border: 1px solid #FF9900;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #6699CC;
+	background-color: #FFFFFF;
+}
+input.checkbox {
+	border: 0px;
+	border-style : none;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #6699CC;
+	background-color: #FFFFFF;
+}
+select {
+	border: 1px solid #FF9900;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #6699CC;
+	background-color: #FFFFFF;
+}
+textarea {
+	border: 1px solid #FF9900;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #6699CC;
+	background-color: #FFFFFF;
+}
+a:link {
+	color: #FF9900;
+	text-decoration: none;
+	border: 0px;
+
+
+}
+a:visited {
+	color: #FF9900;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: none;
+	filter: Light;
+
+}
+a:active {
+	color: #FF9900;
+	text-decoration: none;
+
+}
+.alert {
+	color: #FF9900;
+}
+img {
+	border: 0px;
+}
+dir {
+	list-style-image: url(icons/folder_tree.gif);
+	list-style-type: none;
+
+
+
+}
